@@ -8,7 +8,11 @@ get '/name' do
 end
 
 get '/hometown' do
-  "a"
+  "My hometown is Yaroslavl"
+end
+
+get '/hometown' do
+  "My hometown is Yaroslavl"
 end
 
 
