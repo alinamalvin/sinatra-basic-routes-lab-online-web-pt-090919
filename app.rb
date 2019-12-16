@@ -4,9 +4,7 @@ class App < Sinatra::Base
 end
 
 get '/name' do
-  @medicines = Medicine.all
- 
-  erb :'medicines/index.html.erb'
+  "Hello, World!"
 end
 
 
