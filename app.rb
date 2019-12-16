@@ -12,7 +12,7 @@ get '/hometown' do
 end
 
 get '/favorite-son' do
-  "My hometown is Yaroslavl"
+  "My favorite song is Wonderwall"
 end
 
 
