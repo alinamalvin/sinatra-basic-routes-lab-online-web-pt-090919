@@ -11,7 +11,7 @@ get '/hometown' do
   "My hometown is Yaroslavl"
 end
 
-get '/hometown' do
+get '/favorite-son' do
   "My hometown is Yaroslavl"
 end
 
